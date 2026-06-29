@@ -1,0 +1,47 @@
+# ==============================================================================
+# Gitignore Configuration - B-GUST Ecosystem Data Migration
+# Only tracks documentation (README, DISCLAIMER), extracted_raw, and mysql_output.
+# Excludes raw data, agent files, credentials, and local scripts.
+# ==============================================================================
+
+# Ignore everything by default
+*
+
+# Allow directories to traverse
+!*/
+
+# Whitelist documentation and gitignore
+!README.md
+!DISCLAIMER.md
+!.gitignore
+
+# Whitelist extracted raw markdown folder and nested contents
+!extracted_raw/
+!extracted_raw/**
+
+# Whitelist SQL outputs and contents
+!mysql_output/
+!mysql_output/**
+
+# Specifically block agent CLI folders and files
+.aiyoucli/
+.claude/
+.agents/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.mcp.json
+
+# Block raw data ZIPs and local raw files
+raw_data/
+*.zip
+*.rar
+*.7z
+
+# Block local/scratch scripts and temporary conflict files
+conflictos_cedula.json
+*.py
+*.sh
+*.log
+venv/
+.venv/
