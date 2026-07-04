@@ -1,0 +1,21 @@
+version: 2
+mode: git
+created: "2026-07-04T21:14:23Z"
+config:
+  proactive_commits: true
+  worktree_ttl: 24h
+  bridge_to_aiyoucli: auto
+
+current_branch: main
+
+timeline:
+  - id: V001
+    hash: cf9c12f
+    intent: "v2 OCR + SQL: 6 nuevas ubicaciones, 1156 registros"
+    note: "SISMO-2026-VZLA-update-v2.zip: OCR 73 imágenes, 12 PDFs, 7 XLSX, 3 DOCX -> 95 MDs. 1156 registros nuevos dedup contra mysql_output. Bug fixed: auto-keys no únicas. 56 duplicados excluidos (51 cross-batch + 5 intra). Git remote actualizado a B-GUST/data-terremoto-vzla."
+    branch: main
+    date: "2026-07-04T21:14:23Z"
+
+worktrees: []
+
+decisions: []

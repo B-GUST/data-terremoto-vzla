@@ -53,3 +53,7 @@ venv/
 # Whitelist v2 SQL outputs and contents
 !v2_sql_output/
 !v2_sql_output/**
+
+# Whitelist GCC context memory
+!.GCC/
+!.GCC/**
