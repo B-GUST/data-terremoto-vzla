@@ -45,3 +45,11 @@ conflictos_cedula.json
 *.log
 venv/
 .venv/
+
+# Whitelist v2 extracted raw markdown folder and nested contents
+!v2_extracted_raw/
+!v2_extracted_raw/**
+
+# Whitelist v2 SQL outputs and contents
+!v2_sql_output/
+!v2_sql_output/**

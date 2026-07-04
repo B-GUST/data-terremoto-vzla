@@ -1,0 +1,28 @@
+_ —l
+
+LISTA DIGITALIZADA
+
+DE PACIENTES
+
+HAZ CLIC AQUÍ
+
+PARA VER LA LISTA DIGITALIZADA
+DE PACIENTES EN HOSPITALES
+
+PUEDES HACER BÚSQUEDA
+Puedes intentar buscar con
+9 a
+
+NOMBRES APELLIDOS NÚMEROS DE CÉDULA
+" — /
+© AMBAS LISTAS ESTÁN SIENDO al
+ACTUALIZADAS tan pronto como llegue " "-
+información desde los hospitales. .
+
+Q TAMBIÉN PUEDES ACCEDER DESDE ESTE ENLACE:
+
+https://drive.google.com/drive/folders/1036ifaRz45kAs5rKzcid9aDOmP5JB_YI
+
+2 ) ESTAMOS PARA INFORMAR,
+º“/ PARA AYUDAR, PARA UNIRNOS. WWYW
+
